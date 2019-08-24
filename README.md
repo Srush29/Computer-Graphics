@@ -1,2 +1,2 @@
-# Digital Analysis and Algorithms
-DAA cpp files
+# Computer Graphics
+CG cpp files
